@@ -8,7 +8,7 @@
 </p>
 <hr>
 <p> 
-  I'm a recent graduate with a BSc in Computer Science with a concentration in web development. I love both the design and development processes, so I split my time between learning new web frameworks and UX/UI design. I'm currently learning React so I can improve the vibe and experience of my projects. My newest project is an art portfolio website that I can use to display art pieces that I have created in the past.
+  I'm a recent graduate with a BSc in Computer Science with a concentration in web development. I love both the design and development processes, so I split my time between learning new web frameworks and UX/UI design. I'm currently learning React so I can improve the vibe and experience of my projects. My newest project is creating art portfolio websites to help artists display their artwork.
 
 Fun fact: I have a strong interest in Artificial intelligence, and I created a program simulating the Genetic Algorithm technique. I'm really proud of it. :)
 </p>
