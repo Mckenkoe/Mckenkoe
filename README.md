@@ -7,6 +7,6 @@
   I'm a recent graduate with a BSc in Computer Science with a concentration in web development. 
 </p>
 <p>
-  Learning: React, Node.js
-  Strengths: HTML/CSS, Javascript, Python 
+  <strong>Strengths:</strong> HTML/CSS, Javascript, Python  <br>
+  <strong>Learning:</strong> React, Node.js 
 </p>
