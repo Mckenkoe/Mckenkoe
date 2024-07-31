@@ -8,5 +8,5 @@
 </p>
 <p>
   <strong>Strengths:</strong> HTML/CSS, Javascript, Python  <br>
-  <strong>Learning:</strong> React, Node.js 
+  <strong>Learning:</strong> C++, Node.js
 </p>
