@@ -4,9 +4,9 @@
 
 <hr>
 <p> 
-  I'm a recent graduate with a BSc in Computer Science with a concentration in web development. 
+  I have a BSc in Computer Science with a concentration in web development. I build websites for fun!
 </p>
 <p>
   <strong>Strengths:</strong> HTML/CSS, Javascript, Python  <br>
-  <strong>Learning:</strong> C++, Node.js
+  <strong>Learning:</strong> Node.js, React
 </p>
